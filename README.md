@@ -36,8 +36,8 @@ The design closely mimics the interface of X (formerly Twitter) and includes fea
 
 > Place your images inside a folder named `screenshots/` in your repo.
 
-<img width="800" alt="Screenshot 1" src="screenshots/screenshot(387).png" />
-<img width="800" alt="Screenshot 2" src="screenshots/screenshot(388).png" />
+<img width="800" alt="Screenshot 1" src="Screenshot (387).png" />
+<img width="800" alt="Screenshot 2" src="Screenshot(388).png" />
 
 ---
 
