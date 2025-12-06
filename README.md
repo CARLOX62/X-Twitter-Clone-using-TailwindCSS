@@ -6,7 +6,7 @@ The design closely mimics the interface of X (formerly Twitter) and includes fea
 ---
 
 ## 🚀 Live Demo  
-🔗 **View Project:** https://carlox62.github.io/X-Twitter-Clone-using-TailwindCSS/
+🔗 **View Project:** [https://carlox62.github.io/X-Twitter-Clone-using-TailwindCSS/](https://carlox62.github.io/X-Twitter-Clone-using-TailwindCSS/)
 
 ---
 
@@ -33,12 +33,12 @@ The design closely mimics the interface of X (formerly Twitter) and includes fea
 ---
 
 ## 📷 Screenshots
-```
-<img width="1920" height="1080" alt="Screenshot (387)" src="https://github.com/user-attachments/assets/ef29382b-43f3-454a-a6cf-4b40791165c9" />
-<img width="1920" height="1080" alt="Screenshot (388)" src="https://github.com/user-attachments/assets/8f0588ee-b8ad-4e86-965f-1daf688d9ef8" />
 
+> Place your images inside a folder named `screenshots/` in your repo.
 
-```
+<img width="800" alt="Screenshot 1" src="screenshots/screenshot1.png" />
+<img width="800" alt="Screenshot 2" src="screenshots/screenshot2.png" />
+<img width="800" alt="Screenshot 3" src="screenshots/screenshot3.png" />
 
 ---
 
@@ -76,8 +76,8 @@ Then open `index.html` in the browser to view the UI.
 ## 👤 Author
 
 **Aniket Kumar**  
-📧 Connect: aniketkumarsonu62@gmail.com
-💻 GitHub: https://github.com/CARLOX62  
+📧 Connect: aniketkumarsonu62@gmail.com  
+💻 GitHub: [https://github.com/CARLOX62](https://github.com/CARLOX62)  
 
 ---
 
